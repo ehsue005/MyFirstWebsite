@@ -1,0 +1,22 @@
+a, h1 {
+    text-decoration: none;
+    color: lawngreen;
+}
+
+p {
+    font-size: 18px; 
+    color: mediumorchid;
+}
+
+figcaption {
+    font-size: 11px; 
+}
+Figure {
+    margin-left: 0px; 
+}
+
+.photoparagraph {
+    font-size: 18px;
+    color: purple;
+    
+}
